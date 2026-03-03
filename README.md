@@ -1,5 +1,9 @@
-# ECMWF ML and DestinE Training Course 2026
+# ECMWF Anemoi hands-on demos - 2026
 
-This repo contains code examples and resources for ECMWF's [Machine Learning and Destination Earth](https://events.ecmwf.int/event/495/) training course, running over 23-27 October 2026 in Bonn, Germany.
+This repo contains Anemoi code examples and resources adapted from ECMWF's [Machine Learning and Destination Earth](https://events.ecmwf.int/event/495/) training course that ran in February 2026 in Bonn, Germany.
 
-:construction: *This repo is currently under construction...* :construction:
+For more information on the Anemoi framework, visit:
+
+https://github.com/ecmwf/anemoi
+
+https://anemoi.readthedocs.io/en/latest/
